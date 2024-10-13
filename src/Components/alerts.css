@@ -1,0 +1,62 @@
+.form-error {
+    min-height: 20px; /* Adjust the height based on your error message length */
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 5px;
+    overflow-wrap: break-word;
+  }
+.alerts
+{
+    min-height: 20px;
+    text-align: center;
+    overflow-wrap: break-word;
+    width: 100%;
+    white-space: pre-line;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 700px; /* Adjust as needed */
+  font-family: Arial, sans-serif;
+}
+
+.profile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-title {
+  font-size: 2em;
+  margin: 0;
+}
+
+.profile-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.profile-info {
+  flex: 1 0 40%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.profile-actions {
+  flex: 1 0 40%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn {
+  margin: 5px;
+}

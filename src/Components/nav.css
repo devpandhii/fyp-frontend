@@ -1,0 +1,39 @@
+.profile-nav{
+    padding: 5px 5px;
+    background-color:#516395;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-weight: 600;
+}
+
+.nav-link{
+    color: #FFFFFF;
+    margin: 5px 25px;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.logout-btn{
+    margin: 15px;
+    color: #FFFFFF;
+    border: solid 1px white;
+}
+
+.logout-btn:hover{
+    margin: 15px;
+    /* font-weight: bold; */
+    color: #FFFFFF;
+    border: solid 1px white;
+    /* border: solid 1px white; */
+}
+
+.a-div{
+    justify-content: center;
+}
+
+

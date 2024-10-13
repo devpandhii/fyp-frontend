@@ -1,0 +1,12 @@
+.fixed-size-image {
+    width: 300px;  /* Set the desired width */
+    height: 300px; /* Set the desired height */
+    object-fit: cover; /* Ensure the image covers the entire area without stretching */
+  }
+
+.profile-image{
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    margin-right:20px ;
+}
